@@ -1,0 +1,53 @@
+.green{
+   color: green;
+    align-items: center;
+    
+}
+
+.blue {
+   color: blue;
+    align-items: center;
+}
+.red {
+    color: red;
+    align-items: center;
+
+}
+.gray {
+    background-color: gray;
+    
+    align-items: center;
+    
+}
+.yellow{
+    background-color: yellow;
+  align-items: center;
+    
+}
+
+
+.dad
+{
+    width: 500px;
+    height: 500px;
+    display: flex;
+}
+.dad div {
+    width: 50%;
+    height: 50%;
+    top: 50px;
+    bottom: 50px;
+    border-style: solid;
+    border-radius: 200px;
+    align-items: center;
+    
+}
+
+h1 {
+    text-align: center;
+    align-items: center;
+}
+h3 {
+    text-align: center;
+    align-items: center;
+}
